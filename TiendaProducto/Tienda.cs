@@ -44,5 +44,13 @@ namespace TiendaProductos
             }
             throw new Exception($"Producto '{nombre}' no existe en el inventario.");
         }
+
+         // Metodo para aplicar descuento a un producto
+        public void AplicarDescuento(string nombre, decimal porcentaje)
+        {
+            var producto = BuscarProducto(nombre);
+            var nuevoPrecio = producto.Precio * (1 - porcentaje / 100);
+            producto.ActualizarPrecio(nuevoPrecio); // Llama a ActualizarPrecio en Producto
+        }
     }
 }
