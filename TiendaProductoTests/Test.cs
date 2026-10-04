@@ -165,6 +165,24 @@ namespace TiendaProductos.Tests
             Assert.Contains(nuevoProducto, _tienda.Inventario);
         }
 
+        // Prueba de integracion
+        [Fact]
+        public void CalcularTotalCarrito_ConDescuentosDebeDarTotalCorrecto()
+        {
+            // Arrange: Inicializa el carrito con algunos productos
+            var carrito = new List<string> { "Laptop", "Celular" };
+
+            // Aplica un 10% de descuento a la Laptop
+            _tienda.AplicarDescuento("Laptop", 10);  // El precio de la Laptop debe ser 900.00
+
+            // Act: Calcula el total del carrito
+            var total = _tienda.CalcularTotalCarrito(carrito);
+
+            // Assert: Verifica que el total sea correcto
+            // Laptop (900.00) + Celular (500.00) = 1400.00
+            Assert.Equal(1400.00m, total);
+        }
+
         
     }
 }
