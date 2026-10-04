@@ -23,3 +23,10 @@
 
     Un test double es un objeto o componente que reemplaza a uno real durante una prueba, permitiendo aislar la unidad que se está probando y evitar dependencias innecesarias.
     Sí. Existen distintos tipos de test doubles, como mocks, stubs, dummies, fakes y spies.
+
+## 4) Defina usando palabras propias y según la práctica realizada qué es un fixture.¿Qué ventajas ve en el uso de fixtures? ¿Qué enfoque de diseño de pruebas estaríamos aplicando (caja negra/blanca)? Explique los conceptos de Setup y Teardown en testing.
+    un fixture es básicamente preparar el escenario o "armar la cancha" antes de que empiece el partido. Es dejar listo todo el entorno y los datos iniciales para que la prueba pueda ejecutarse siempre desde las mismas condiciones exactas.
+
+    Al usar fixtures, estarías aplicando un enfoque de pruebas automatizadas con preparación y limpieza de datos. Este enfoque se centra en Setup y Teardown
+
+    Los fixtures configuran el entorno antes de cada prueba (setup) y lo restauran o limpian después de la ejecución (teardown). Esto es esencial para garantizar que cada prueba sea independiente y no esté influenciada por el estado que dejaron pruebas anteriores.
