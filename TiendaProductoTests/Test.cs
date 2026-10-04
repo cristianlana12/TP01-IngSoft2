@@ -162,7 +162,7 @@ namespace TiendaProductos.Tests
             _tienda.AgregarProducto(nuevoProducto);
 
             // Assert
-            Assert.Contains(nuevoProducto, _tienda.Inventario);
+            Assert.Contains(nuevoProducto, _tienda.inventario);
         }
 
         // Prueba de integracion

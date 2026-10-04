@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProductoTests\\TiendaProductoTests.csproj": {}
+  },
+  "projects": {
+    "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProductoTests\\TiendaProductoTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProductoTests\\TiendaProductoTests.csproj",
+        "projectName": "TiendaProductoTests",
+        "projectPath": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProductoTests\\TiendaProductoTests.csproj",
+        "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
+        "outputPath": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProductoTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\TiendaProductos.csproj": {
+                "projectPath": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\TiendaProductos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\TiendaProductos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\TiendaProductos.csproj",
+        "projectName": "TiendaProductos",
+        "projectPath": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\TiendaProductos.csproj",
+        "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
+        "outputPath": "C:\\UNIVERSIDAD\\4TO-AÑO\\2DO CUATRIMESTRE\\INGENIERIA DE SOFT 2\\TP1\\TP01-IngSoft2\\TiendaProducto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
