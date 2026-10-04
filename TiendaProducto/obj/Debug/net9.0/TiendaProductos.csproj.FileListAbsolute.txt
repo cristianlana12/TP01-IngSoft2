@@ -1,0 +1,15 @@
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\bin\Debug\net9.0\TiendaProductos.exe
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\bin\Debug\net9.0\TiendaProductos.deps.json
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\bin\Debug\net9.0\TiendaProductos.runtimeconfig.json
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\bin\Debug\net9.0\TiendaProductos.dll
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\bin\Debug\net9.0\TiendaProductos.pdb
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.AssemblyInfoInputs.cache
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.AssemblyInfo.cs
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.sourcelink.json
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.dll
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\refint\TiendaProductos.dll
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.pdb
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\TiendaProductos.genruntimeconfig.cache
+C:\UNIVERSIDAD\4TO-AÑO\2DO CUATRIMESTRE\INGENIERIA DE SOFT 2\TP1\TP01-IngSoft2\TiendaProducto\obj\Debug\net9.0\ref\TiendaProductos.dll

@@ -13,6 +13,7 @@ namespace TiendaProductos
         {
             // Inicializa la tienda con algunos productos predefinidos
             Tienda = new Tienda();
+            Tienda.AgregarProducto(new Producto("Laptop", 1000.00m, "Electrónica"));
             Tienda.AgregarProducto(new Producto("Celular", 500.00m, "Electrónica"));
             Tienda.AgregarProducto(new Producto("Tablet", 600.00m, "Electrónica"));
         }
