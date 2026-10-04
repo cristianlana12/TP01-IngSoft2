@@ -30,3 +30,13 @@
     Al usar fixtures, estarías aplicando un enfoque de pruebas automatizadas con preparación y limpieza de datos. Este enfoque se centra en Setup y Teardown
 
     Los fixtures configuran el entorno antes de cada prueba (setup) y lo restauran o limpian después de la ejecución (teardown). Esto es esencial para garantizar que cada prueba sea independiente y no esté influenciada por el estado que dejaron pruebas anteriores.
+
+## 5) ¿Realizó una prueba de cobertura completa? ¿Qué tipo de cobertura utilizó? ¿Puede describir una situación de desarrollo para este caso en donde se plantee pruebas de integración ascendente? Describa la situación.
+
+    Sí, se buscó cubrir las principales funcionalidades y caminos del código, probando tanto casos correctos como casos de error.
+
+    Se utilizó principalmente cobertura de sentencias y de ramas, verificando que se ejecuten las distintas instrucciones y condiciones de los métodos.
+
+    Un ejemplo sería comenzar probando la clase Producto de forma independiente y luego integrarla con la clase Tienda.
+
+    Primero se verifica que Producto funcione correctamente y después se prueba que Tienda pueda utilizar sus métodos para agregar productos, aplicar descuentos y calcular el total del carrito.
